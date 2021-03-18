@@ -1,4 +1,4 @@
-# FreeBitco.in
+# [FreeBitco.in](https://freebitco.in/?r=40785151)
 FreeBitco.in AutoRoller - Premium User no Captcha
 For regular players there is a Captcha that prevents automation, but now there's a new *Premium* mode available. When you buy Fun-Tokens and have them for more than 30 Days you no longer need to complete the captcha and can automate the rolling.
 ## FreeBitco.in?
@@ -14,7 +14,7 @@ New Wheel of Fortune is now available. Sign up for the newsletter and get free r
 1. Copy the source
 1. Open Tampermonkey in your browser and click the Add Script tab (icon with a plus symbol)
 1. Paste the source into the script window and hit save
-1. Voila!
+1. Play on [FreeBitco.in](https://freebitco.in/?r=40785151)
 ## Disclaimer
 I'm not responsible for your BTC and actions.
 I personally did succesfully deposit and withdraw funds in the past. But past actions are not indicative of future service levels.

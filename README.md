@@ -1,5 +1,5 @@
 # [FreeBitco.in](https://freebitco.in/?r=40785151)
-FreeBitco.in AutoRoller - Premium User no Captcha
+FreeBitco.in AutoRoller - Premium User no Captcha.
 For regular players there is a Captcha that prevents automation, but now there's a new *Premium* mode available. When you buy Fun-Tokens and have them for more than 30 Days you no longer need to complete the captcha and can automate the rolling.
 ## FreeBitco.in?
 Yes on [FreeBitco.in](https://freebitco.in/?r=40785151) you can earn up to $200 Dollars every hour while playing.
